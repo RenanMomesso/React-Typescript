@@ -15,7 +15,6 @@ const Serie = () => {
   const serie = useSelector((state: RootStore) => state.episodes);
   const {
     location: { pathname },
-    goBack,
   } = useHistory();
 
   useEffect(() => {
