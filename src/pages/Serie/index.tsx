@@ -5,9 +5,10 @@ import { getEpisode, getEpisodesList } from "../../redux/actions";
 import { RootStore } from "../../redux/store";
 import { getSeasonAndSerieNumber } from "../../utils/getSeasonAndEpisodeNumber";
 
-import * as S from "./styles";
 import EpisodeListContent from "../../components/EpisodeListContent";
 import Header from "../../components/Header";
+
+import * as S from "./styles";
 
 const Serie = () => {
   const dispatch = useDispatch();
