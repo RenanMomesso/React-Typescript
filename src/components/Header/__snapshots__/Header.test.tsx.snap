@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders learn react link 1`] = `
+<div
+  aria-label="Header"
+  class="sc-bdvvtL cisDuS"
+>
+   Home 
+</div>
+`;

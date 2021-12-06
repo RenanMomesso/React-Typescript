@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Episode each list should render episode correctly 1`] = `
+<div>
+  <tbody>
+    <tr>
+      <td>
+        1
+      </td>
+      <td>
+        <a
+          href="/episode/5/1"
+        >
+          5
+        </a>
+      </td>
+      <td>
+        Monster attack
+      </td>
+      <td>
+        08/08/2016
+      </td>
+    </tr>
+  </tbody>
+</div>
+`;

@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render EpisodeListContent should render EpisodeListContent correctly 1`] = `
+<div>
+  <div
+    class="sc-bdvvtL gKYDZO"
+  >
+    <div
+      class="sc-gsDKAQ iIXhxU"
+    >
+      <button
+        class="sc-hKwDye ilPFjb"
+      >
+        Season 1
+      </button>
+      <button
+        class="sc-hKwDye gxhiOd"
+      >
+        Season 2
+      </button>
+      <button
+        class="sc-hKwDye gxhiOd"
+      >
+        Season 3
+      </button>
+    </div>
+    <table
+      class="sc-dkPtRN SSOmN"
+      id="customers"
+    >
+      <thead>
+        <tr>
+          <th>
+            Season
+          </th>
+          <th>
+            Number
+          </th>
+          <th>
+            Title
+          </th>
+          <th>
+            Date
+          </th>
+        </tr>
+      </thead>
+    </table>
+  </div>
+</div>
+`;
