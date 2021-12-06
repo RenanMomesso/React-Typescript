@@ -7,7 +7,6 @@ export default {
   },
   colors: {
     primary: "#F231A5",
-
     mainBg: "#06092B",
     lightBg: "#F2F2F2",
     white: "#FAFAFA",
