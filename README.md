@@ -1,4 +1,4 @@
-# Simple React 
+# Simple React Project
 
 
 - Project made with typescript, react, styled-components, redux, react-router-dom, jest test and react-testing-library
