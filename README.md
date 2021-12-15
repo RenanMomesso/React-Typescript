@@ -15,7 +15,7 @@
 
 # Home Page
 
-- it will show an cover image, title, summary of the show and a list of it episodes
+- it will show a cover image, title, summary of the show and a list of it episodes
 
 # Episode Page
 
